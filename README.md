@@ -2,10 +2,10 @@
 page dashboard pour monitoring crypto
 
 # créer la projet web
-##créer la page NGINX
+## créer la page NGINX
 crypto-monitor
 
-##créer la page vuejs
+## créer la page vuejs
 ### installation modules
 
 
