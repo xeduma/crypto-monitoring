@@ -1,8 +1,13 @@
 # crypto-monitoring
 page dashboard pour monitoring crypto
 
-# page vuejs
-##créer la page
+# créer la projet web
+##créer la page NGINX
+crypto-monitor
+
+##créer la page vuejs
+### installation modules
+
 
 # info a recupérer
 1. masse monaitaire
@@ -12,4 +17,4 @@ page dashboard pour monitoring crypto
 
 
 # dashboard
-
+## lancée le projet
